@@ -1,0 +1,16 @@
+Aula 21/10
+
+-Definição de regras de validação
+--exemplo de simples: o campo de de idade deve ser um numero interio
+--exemplo complexo: o campo "data fim" deve ser depois de "data inicio"
+-Restrições de integridade em base de dados
+--chave primaria
+--chave estrangeira
+-- restrição UNIQUE
+--restrição NOT NULL
+--restricao Check
+-Validação de formato
+-Normalização e padronização dos dados
+-Tratamento de valores em falta
+
+aula pratica fiz a tarefa 5
