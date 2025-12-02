@@ -1,0 +1,9 @@
+DIA 16-09-2025
+
+Teórica: A aula apresentou o conceito de ETL, explicando de forma geral as suas três etapas e como ele é usado em data warehousing e business intelligence.
+O professor também mencionou a diferença entre ETL e ELT, além de referir a existência de ferramentas e do uso de programação, incluindo Python, nesses processos.
+
+Prática: A parte prática focou no uso de Python para aplicar a lógica de ETL.
+Foram resolvidos exercícios iniciais que permitiram explorar a extração, transformação e carregamento de dados numa forma simples e introdutória.
+
+Crítica: O conteúdo foi direto e útil. A prática complementou bem a teoria ao permitir um primeiro contacto com código.
